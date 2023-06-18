@@ -1,6 +1,6 @@
 # Satori Nakamoto
 
-- Golang (echo)
-- Javascript (node.js, express)
+- Go
+- Javascript/Typescript
 - Python
-- SQL (Postgresql)
+- SQL
