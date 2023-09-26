@@ -1,6 +1,7 @@
 # Satori Nakamoto
 
 - Go
+- Node.js
 - Javascript/Typescript
-- Python
-- SQL
+- React.js
+- PostgreSQL
