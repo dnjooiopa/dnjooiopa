@@ -1,7 +1,8 @@
 # Satori Nakamoto
 
 - Go
-- Node.js
+- NodeJS
 - Javascript/Typescript
-- React.js
+- ReactJS/NextJS
 - PostgreSQL
+- Redis
